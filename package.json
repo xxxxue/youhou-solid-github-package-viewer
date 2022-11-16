@@ -1,0 +1,24 @@
+{
+  "name": "youhou-solid-github-package-viewer",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.3",
+    "vite": "^3.2.4",
+    "vite-plugin-monkey": "^2.9.2",
+    "vite-plugin-solid": "^2.4.0"
+  },
+  "dependencies": {
+    "@hope-ui/solid": "^0.6.7",
+    "@stitches/core": "^1.2.8",
+    "@tanstack/solid-query": "^4.15.1",
+    "solid-js": "^1.6.2",
+    "solid-transition-group": "^0.0.12"
+  }
+}
